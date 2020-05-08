@@ -1,2 +1,0 @@
-# begin-trainig
-Begin app
